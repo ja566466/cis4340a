@@ -1,3 +1,5 @@
+// Fixed version of SER03-J: Validated deserialized objects to prevent untrusted data execution.
+
 import java.io.*;
 
 public class R14_SER03_J_Fixed {
