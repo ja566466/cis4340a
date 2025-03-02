@@ -1,3 +1,5 @@
+// Fixed version of FIO16-J: Prevented file operations in shared directories.
+
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
