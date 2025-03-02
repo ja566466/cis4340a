@@ -1,3 +1,5 @@
+// Fixed version of TSM01-J: Prevented 'this' reference from escaping during object construction.
+
 public class R13_TSM01_J_Fixed {
     private final Thread thread;
 
