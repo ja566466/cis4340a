@@ -1,3 +1,5 @@
+// Fixed version of OBJ11-J: Used static factory method instead of throwing exceptions in constructor.
+
 import java.io.FileInputStream;
 import java.io.IOException;
 
