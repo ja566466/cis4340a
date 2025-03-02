@@ -1,3 +1,5 @@
+// Fixed version of STR03-J: Avoided encoding noncharacter data as a string.
+
 import java.math.BigInteger;
 
 public class R04_STR03_J_Fixed {
