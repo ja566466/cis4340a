@@ -1,3 +1,5 @@
+// Fixed version of NUM03-J: Used long for handling unsigned integer values.
+
 import java.io.DataInputStream;
 import java.io.IOException;
 
