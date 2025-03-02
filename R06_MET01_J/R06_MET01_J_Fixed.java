@@ -1,3 +1,5 @@
+// Fixed version of MET01-J: Replaced assertions with exception handling.
+
 public class R06_MET01_J_Fixed {
     public static int getAbsAdd(int x, int y) {
         if (x == Integer.MIN_VALUE || y == Integer.MIN_VALUE) {
