@@ -1,3 +1,5 @@
+// Fixed version of XP00-J: Handled return values properly when deleting files.
+
 import java.io.File;
 
 public class R02_XP00_J_Fixed {
