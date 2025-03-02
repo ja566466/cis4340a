@@ -1,3 +1,6 @@
+// Fixed version of IDS03-J (Sanitizing user input before logging)
+
+
 import java.util.logging.Logger;
 import java.util.regex.Pattern;
 
